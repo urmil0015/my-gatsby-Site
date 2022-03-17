@@ -9,5 +9,7 @@ module.exports = {
       "name": "blog",
       "path": "./blog/"
     },  
-  }]
+  },
+  "gatsby-plugin-mdx",
+]
 };
