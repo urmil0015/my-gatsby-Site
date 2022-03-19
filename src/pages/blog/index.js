@@ -18,7 +18,7 @@ console.log(data);
 
                             <br />
                             <h2>
-                                <Link target={"_blank"} to={node.slug}>{node.frontmatter.title}</Link>
+                                <Link to={node.slug}>{node.frontmatter.title}</Link>
                             </h2>
                             <p>Posted: {node.frontmatter.date}</p>
                             <br />
